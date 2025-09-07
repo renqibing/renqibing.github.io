@@ -6,6 +6,6 @@ image: /images/certified-robustness-graph-matching.jpg
 categories: research
 author: "Qibing Ren"
 authors: "Fourth author"
-venue: "KDD 2024"
+venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 arxiv: https://openreview.net/pdf?id=zkzf0VkiNv
 ---

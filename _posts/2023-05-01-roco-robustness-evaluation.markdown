@@ -6,7 +6,7 @@ image: /images/roco-framework.jpg
 categories: research
 author: "Qibing Ren"
 authors: "Fourth author"
-venue: "ICLR 2023"
+venue: "International Conference on Learning Representations (ICLR)"
 arxiv: https://openreview.net/pdf?id=2r6YMqz4Mml
 code: https://github.com/Thinklab-SJTU/ROCO
 ---

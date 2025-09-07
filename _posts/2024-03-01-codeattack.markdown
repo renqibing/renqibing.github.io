@@ -6,7 +6,7 @@ image: /images/codeattack.jpg
 categories: research
 author: "Qibing Ren"
 authors: "First author"
-venue: "ACL 2024"
+venue: "Association for Computational Linguistics (ACL)"
 arxiv: https://arxiv.org/pdf/2403.07865
 code: https://github.com/AI45Lab/CodeAttack
 ---
