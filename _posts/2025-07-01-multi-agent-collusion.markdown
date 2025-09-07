@@ -9,4 +9,5 @@ authors: "First author"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2507.14660
 code: https://github.com/renqibing/MultiAgent4Collusion
+website: https://mp.weixin.qq.com/s/TgrlSVO0fX3DoizCNk4uVw
 ---
