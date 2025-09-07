@@ -32,9 +32,9 @@
           <tr style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
               <h1>
-                Qibing Ren
+                Qibing Ren「任麒冰」
               </h1>
-              <p>I am a PhD candidate at the <a href="https://dmcv.sjtu.edu.cn/people/">DMCV lab</a> of <a href="https://www.sjtu.edu.cn"></a>Shanghai Jiao Tong University</a>, where I work on Value Alignment of Large Language Models.m My PhD advisor is <a href="https://dmcv.sjtu.edu.cn/people/">Lizhuang Ma</a>.
+              <p>I am a PhD candidate at the <a href="https://dmcv.sjtu.edu.cn/people/">DMCV lab</a> of <a href="https://www.sjtu.edu.cn"></a>Shanghai Jiao Tong University</a>, where I work on AI alignment, AI safety and multimodal AI. I am the class leader of <a href="https://news.sjtu.edu.cn/jdyw/20190930/111855.html"> Wu Wenjun Honorary Doctoral Program</a> at SJUT. My PhD advisor is <a href="https://dmcv.sjtu.edu.cn/people/">Lizhuang Ma</a>.
               </p>
               <p>
                 Previously, I received my B.S. from SJTU. I also spent time at AI research labs of Tencent, ByteDance and Shanghai AI Lab.
@@ -64,15 +64,24 @@
             </td>
           </tr>
         </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Publications (* equal contribution)</h2>
+            </td>
+          </tr>
+        </table>
+
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+            <!-- <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
+            </td> -->
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>

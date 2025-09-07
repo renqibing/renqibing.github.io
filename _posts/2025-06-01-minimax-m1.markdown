@@ -1,0 +1,13 @@
+---
+layout: post
+title: "MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention"
+date: 2025-06-01 12:00:00 +00:00
+image: /images/minimax-m1.jpg
+categories: research
+author: "Qibing Ren"
+authors: "Team work at <strong>MiniMax</strong>"
+venue: "arXiv"
+arxiv: https://arxiv.org/pdf/2506.13585
+code: https://github.com/MiniMax-AI/MiniMax-M1
+website: https://huggingface.co/papers/2506.13585
+---
