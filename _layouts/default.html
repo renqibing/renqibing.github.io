@@ -22,7 +22,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <style>
-    body, td, th, tr, p, a {
+    body, td, th, tr, p, a, strong {
       font-size: 18px !important;
     }
     h1 {
@@ -136,6 +136,9 @@
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
+              {% if post.blog %}
+              <a href="{{post.blog}}">blog</a> /
+              {% endif %}              
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
               {% endif %}
@@ -150,13 +153,14 @@
         <br>
 
         <!-- Awards Section -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Awards</h2>
             </td>
           </tr>
-        </table>
+        </table> -->
+        <h2>Awards</h2>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
@@ -179,13 +183,14 @@
         <br>
 
         <!-- Professional Services Section -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Professional Services</h2>
             </td>
           </tr>
-        </table>
+        </table> -->
+        <h2>Professional Services</h2>        
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
