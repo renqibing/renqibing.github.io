@@ -5,7 +5,7 @@ date: 2025-09-01 12:00:00 +00:00
 image: /images/llms-vulnerabilities.jpg
 categories: research
 author: "Qibing Ren"
-authors: "First author"
+authors: "<strong>First author</strong>"
 venue: "Association for Computational Linguistics (ACL)"
 arxiv: https://arxiv.org/pdf/2410.10700
 code: https://github.com/AI45Lab/ActorAttack
