@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts"
-date: 2025-01-01 12:00:00 +00:00
+date: 2025-09-01 12:00:00 +00:00
 image: /images/llms-vulnerabilities.jpg
 categories: research
 author: "Qibing Ren"

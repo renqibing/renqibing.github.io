@@ -10,5 +10,4 @@ venue: "Technical Report"
 arxiv: https://arxiv.org/pdf/2507.16534
 website: https://mp.weixin.qq.com/s/qzhtFNZAY2Z1eIa2SQxcMQ
 ---
-As the leader of the collusion risk section
 <span style="color: red;"><strong>Featured by Jack Clark (Anthropic Co-founder)</strong></span>

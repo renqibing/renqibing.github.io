@@ -11,3 +11,4 @@ arxiv: https://arxiv.org/pdf/2506.13585
 code: https://github.com/MiniMax-AI/MiniMax-M1
 website: https://huggingface.co/papers/2506.13585
 ---
+The world's first open-weight, large-scale hybrid-attention reasoning model.
