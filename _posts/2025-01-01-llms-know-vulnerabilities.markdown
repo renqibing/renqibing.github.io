@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/pdf/2410.10700
 code: https://github.com/AI45Lab/ActorAttack
 award: "ACL 2025 Outstanding Paper Award (29/3000+)"
 ---
-<span style="color: red;"><strong>ACL 2025 Outstanding Paper Award (top 0.3% over 8400+)</strong></span>
+<span style="color: red;"><strong>ACL 2025 Outstanding Paper Award (top 0.3%)</strong></span>
